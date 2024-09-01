@@ -1,0 +1,7 @@
+Customer Name,Customer Address,Customer Phone Number,Order Status,Courier,Items
+
+Bob,"12 Everglade terrace, London, SW18 1UE",020889874576,Delivered,4,2
+
+Carl,"10 Mill HIll Road, London, W3 68E",02083357545,Ready,1,"1, 3"
+
+Ran,"11 Everglade terrace, London, SW18 1UE",02088932432 ,Delivered,1,"1, 2, 3"
