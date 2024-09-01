@@ -17,7 +17,7 @@ This repository contains 5 files.
 4) Products.csv - A csv file with information relating to all Products offered. 
 
 ---
-<h1 align="center"> How to - Run the application</h1>
+<h1 align="center"> How to Run the application</h1>
 
 ---
 
