@@ -1,7 +1,7 @@
 
 <h1 align="center"> Pop up Café Mini Project </h1>
 
-A pop-up café in a busy business district is home-made lunches and refreshments to thesurrounding offices.
+A pop-up café in a busy business district offers home-made lunches and refreshments to offices in the surrounding area.
 As such, they require a software application which helps them to log and track orders.
 
 ---
