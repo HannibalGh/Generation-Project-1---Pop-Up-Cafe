@@ -2,7 +2,7 @@
 
 A Dockerized Python CLI application for a fictional pop-up café in a busy business district, designed to log and track customer orders. The application allows users to create, modify, and manage orders while supporting multiple data formats (text files, JSON, CSV). Data is persisted in a MySQL database to enable full CRUD (Create, Read, Update, Delete) operations. 
 
---- 
+---
 
 <h1 align="center"> Repository Structure </h1>
 
@@ -17,7 +17,7 @@ This repository contains the following files:
 7. **db_connection.py** - A Python file used to establish a connection with the MySQL database.
 8. **App.py** - The Python executable that must be run to start the application.
 
---- 
+---
 
 <h1 align="center"> How to Run the Application </h1>
 
@@ -26,10 +26,16 @@ To run the most updated version of the application, follow these steps:
 1. Set up your MySQL database locally using Docker by running the **docker-compose.yml** file or by installing MySQL on your machine.
 2. Run the **App.py** file.
 
---- 
+---
 
 <h1 align="center"> Usage Instructions </h1>
 
 Once the application is running, you can interact with it via the Visual Studio Code terminal. Simply follow the on-screen prompts to log and track orders as needed.
+
+---
+
+<h1 align="center"> Preview </h1>
+
+![Terminal Screenshot](https://github.com/HannibalGh/Generation-Project-1---Pop-Up-Cafe/blob/main/Terminal_Screenshot.png)
 
 ---
