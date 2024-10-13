@@ -34,7 +34,7 @@ Once the application is running, you can interact with it via the Visual Studio 
 
 ---
 
-<h1 align="left"> Preview </h3>
+<h1 align="center"> Preview </h3>
 
 ![Terminal Screenshot](https://github.com/HannibalGh/Generation-Project-1---Pop-Up-Cafe/blob/main/Terminal_Screenshot.png)
 
