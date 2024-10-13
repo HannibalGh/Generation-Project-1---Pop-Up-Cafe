@@ -12,8 +12,8 @@ This repository contains the following files:
 1. **Code.py** - A file containing the main code for the application.
 2. **Couriers.csv** - A CSV file detailing information about the couriers the café uses. 
 3. **Orders.csv** - A CSV file containing all order information.
-4. **Products.csv** - A CSV file with information relating to all products offered. 
-5. **docker-compose.yml** - A YAML file used to launch a MySQL database locally using Docker.
+4. **Products.csv** - A CSV file with information related to all products offered. 
+5. **docker-compose.yml**, **.env**, and **requirements.txt** - Three files (YAML, environment, and text) used to launch a MySQL database locally using Docker.
 6. **db_setup.py** - A Python file used to create the tables and load data from the CSV files.
 7. **db_connection.py** - A Python file used to establish a connection with the MySQL database.
 8. **App.py** - The Python executable that must be run to start the application.
